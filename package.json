@@ -1,7 +1,7 @@
 {
   "name": "json-sql",
   "description": "Node.js json to sql query mapper",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "author": {
     "name": "Artem Zhukov",
     "email": "artzhuchka@gmail.com"
